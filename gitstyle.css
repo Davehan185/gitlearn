@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-#container
-{
-    width: 800px;
-    height: 600px;
-}
-
-#header
-{
-    background-color: gold;
-    width: 800px;
-    height: 100px;
-    }   
-
-#mainpanel
-{
-    background-color: cyan;
-    width: 800px;
-    height: 400px;
-    }
-
-#footer
-{
-    background-color: red;
-    width: 800px;
-    height: 50px;   
-=======
 #container
 {
     width: 800px;
@@ -50,5 +23,4 @@
     background-color: red;
     width: 800px;
     height: 50px;   
->>>>>>> e9c4f4d96b5d305dd70054d771750b50babab40a
     }
