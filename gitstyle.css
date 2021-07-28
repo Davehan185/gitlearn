@@ -29,6 +29,22 @@ img
     float: left;
 }
 
+#leftpaneltop
+{   
+    background-color: gray;
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+
+#leftpanelbot
+{   
+    background-color: gray;
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+
 #mainpanel
 {
     width: 600px;
